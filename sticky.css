@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+
+
+.foot{
+    height: 50px;
+    background-color: black;
+    color: white;
+    position: sticky;
+    bottom: 0;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-size: larger;
+    display: inline-block;
+    margin: 10px;
+    color: red;
+    
+}
